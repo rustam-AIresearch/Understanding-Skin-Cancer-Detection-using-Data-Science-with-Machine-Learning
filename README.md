@@ -1,7 +1,8 @@
- Melanoma Classification Using Deep Learning Across Skin Tones
+#Skin Cancer Detection
+Melanoma Classification Using Deep Learning Across Skin Tones
 Melanoma is the most lethal form of skin cancer, with early detection being critical to effective treatment. However, diagnostic accuracy varies significantly across different skin tones. This project investigates the application of deep learning to dermoscopic image classification and evaluates how well existing models perform across Fitzpatrick skin types.
 
-Description
+#Description
 This work examines the diagnostic performance of five pre-trained Convolutional Neural Network (CNN) architectures—VGG16, ResNet50, Xception, DenseNet201, and MobileNetV2—for melanoma classification using dermoscopic images. A comprehensive pipeline was developed, incorporating:
 
 Contrast enhancement with CLAHE (Contrast Limited Adaptive Histogram Equalization)
